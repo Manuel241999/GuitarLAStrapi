@@ -1,0 +1,16 @@
+npm install @strapi/provider-upload-cloudinary --save
+
+ojo: Acordartate que te pide varias ondas para conectar a una base de datos.
+por lo que utilice la de postgres fake que me genero Render.
+aqui estan las credenciales:
+
+user: root
+
+password: j0CS2bb0y0CxkIZ85V3aF33QiTsZV7Yc
+
+nombre base de datos: guitarla_fwj0
+
+host: dpg-cmrqsv2cn0vc73dv17hg-a.oregon-postgres.render.com
+
+
+REVISA EL .ENV PORQUE AHI ESTAN LOS DATOS.
